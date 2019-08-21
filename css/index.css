@@ -1,0 +1,10 @@
+.cover-300 {
+	height: 300px;
+}
+.padding-top {
+	padding-top: 10px;
+}
+.block {
+	display: -webkit-box;
+	display: flex;
+}
